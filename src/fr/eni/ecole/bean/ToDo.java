@@ -28,7 +28,7 @@ public class ToDo implements Serializable{
 		super();
 		// TODO Auto-generated constructor stub
 	}
-
+//jkfkskfskl
 	public ToDo(int id, String contenu) {
 		super();
 		this.id = id;
